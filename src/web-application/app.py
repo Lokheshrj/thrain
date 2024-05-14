@@ -165,5 +165,5 @@ def register_user():
 
 	
 if __name__ == '__main__':
-	app.run(host="0.0.0.0", port=8080)
+	app.run(host="54.87.35.118", port=8080)
 	#app.run()
